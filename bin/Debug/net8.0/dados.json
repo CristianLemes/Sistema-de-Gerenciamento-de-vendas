@@ -1,0 +1,31 @@
+{
+  "Produtos": [
+    {
+      "IdProduto": 1,
+      "NomeProduto": "Porta Social 210x80 Esq",
+      "ValorProduto": 639.00,
+      "QuantidadeProduto": 10
+    }
+  ],
+  "Vendas": [],
+  "Orcamentos": [
+    {
+      "IdOrcamento": 1,
+      "NomeCliente": "Cristian",
+      "Data": "2026-01-15T22:02:57.8779606-03:00",
+      "Itens": [
+        {
+          "Produto": {
+            "IdProduto": 1,
+            "NomeProduto": "Porta Social 210x80 Esq",
+            "ValorProduto": 639.00,
+            "QuantidadeProduto": 10
+          },
+          "Quantidade": 2,
+          "ValorTotal": 1278.00
+        }
+      ],
+      "Total": 1278.00
+    }
+  ]
+}

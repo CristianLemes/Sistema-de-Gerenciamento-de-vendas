@@ -1,0 +1,14 @@
+C:\Users\crist\Desktop\Cristian_Lemes_RA_2020101531\ProjetoTCN\ProjetoTCN\bin\Debug\net8.0\ProjetoTCN.exe
+C:\Users\crist\Desktop\Cristian_Lemes_RA_2020101531\ProjetoTCN\ProjetoTCN\bin\Debug\net8.0\ProjetoTCN.deps.json
+C:\Users\crist\Desktop\Cristian_Lemes_RA_2020101531\ProjetoTCN\ProjetoTCN\bin\Debug\net8.0\ProjetoTCN.runtimeconfig.json
+C:\Users\crist\Desktop\Cristian_Lemes_RA_2020101531\ProjetoTCN\ProjetoTCN\bin\Debug\net8.0\ProjetoTCN.dll
+C:\Users\crist\Desktop\Cristian_Lemes_RA_2020101531\ProjetoTCN\ProjetoTCN\bin\Debug\net8.0\ProjetoTCN.pdb
+C:\Users\crist\Desktop\Cristian_Lemes_RA_2020101531\ProjetoTCN\ProjetoTCN\obj\Debug\net8.0\ProjetoTCN.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\crist\Desktop\Cristian_Lemes_RA_2020101531\ProjetoTCN\ProjetoTCN\obj\Debug\net8.0\ProjetoTCN.AssemblyInfoInputs.cache
+C:\Users\crist\Desktop\Cristian_Lemes_RA_2020101531\ProjetoTCN\ProjetoTCN\obj\Debug\net8.0\ProjetoTCN.AssemblyInfo.cs
+C:\Users\crist\Desktop\Cristian_Lemes_RA_2020101531\ProjetoTCN\ProjetoTCN\obj\Debug\net8.0\ProjetoTCN.csproj.CoreCompileInputs.cache
+C:\Users\crist\Desktop\Cristian_Lemes_RA_2020101531\ProjetoTCN\ProjetoTCN\obj\Debug\net8.0\ProjetoTCN.dll
+C:\Users\crist\Desktop\Cristian_Lemes_RA_2020101531\ProjetoTCN\ProjetoTCN\obj\Debug\net8.0\refint\ProjetoTCN.dll
+C:\Users\crist\Desktop\Cristian_Lemes_RA_2020101531\ProjetoTCN\ProjetoTCN\obj\Debug\net8.0\ProjetoTCN.pdb
+C:\Users\crist\Desktop\Cristian_Lemes_RA_2020101531\ProjetoTCN\ProjetoTCN\obj\Debug\net8.0\ProjetoTCN.genruntimeconfig.cache
+C:\Users\crist\Desktop\Cristian_Lemes_RA_2020101531\ProjetoTCN\ProjetoTCN\obj\Debug\net8.0\ref\ProjetoTCN.dll
